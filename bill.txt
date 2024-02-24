@@ -1,0 +1,10 @@
+
+Bill No: 0001
+Name: Hemanth
+Phone: 1234567890
+===================================
+Product          Qty         Price
+Bread           1         $1
+Food Oil       10       $50
+===================================
+ Total : Rs=535.5
