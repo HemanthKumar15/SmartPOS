@@ -1,4 +1,4 @@
-                                                Billing System (Grocery store)
+                                                SmartPOS - A Complete Point-of-Sales Solution
                                 
  About Project  Billing System project is written in Python. The project file contains a python script (index.py). This is a simple GUI based application which is very easy to understand and use. It uses Tkinter module for the GUI. Talking about the application, the user just has to select among the items, enter the quantity and click on the total button to view the total price. This simple application also displays the total prices of each item and tax .
 
